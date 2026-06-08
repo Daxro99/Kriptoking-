@@ -1,0 +1,42 @@
+name: Update Market
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get Bitcoin Price
+        run: |
+          curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd" > btc.json
+
+      - name: Build JSON
+        run: |
+          PRICE=$(cat btc.json | grep -o '[0-9]\+')
+
+          echo "{
+            \"bitcoin\": {
+              \"price\": $PRICE,
+              \"updated\": \"$(date -u)\"
+            }
+          }" > data/market.json
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/market.json
+
+          git diff --staged --quiet || git commit -m "Update BTC price"
+
+          git push
