@@ -1,15 +1,14 @@
 {
-  "updated": "2026-06-08",
-  "coins": [
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "price": 105000
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "price": 5200
-    }
-  ]
+  "bitcoin": {
+    "price": 601
+2
+63800
+1685
+71
+1
+17
+66
+87,
+    "updated": "Mon Jun  8 14:32:29 UTC 2026"
+  }
 }
