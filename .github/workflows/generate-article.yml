@@ -1,7 +1,7 @@
 name: Generate Article
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,51 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Generate Article
-        run: |
-
-          DATE=$(date +%Y-%m-%d)
-          FILE="articles/artikel-$DATE.html"
-
-          cat > $FILE << EOF
-          <!DOCTYPE html>
-          <html>
-          <head>
-            <title>Update Pasar Kripto $DATE</title>
-          </head>
-          <body>
-
-          <h1>Update Pasar Kripto $DATE</h1>
-
-          <p>
-          Pasar kripto hari ini menunjukkan aktivitas yang menarik.
-          Investor memantau pergerakan Bitcoin, Ethereum, dan beberapa
-          aset digital lainnya.
-          </p>
-
-          <p>
-          Artikel ini dibuat secara otomatis oleh sistem KriptoKing.
-          </p>
-
-          <a href="../index.html">Kembali</a>
-
-          </body>
-          </html>
-          EOF
-
-      - name: Update News JSON
-        run: |
-
-          cat > data/news.json << EOF
-          [
-            {
-              "title":"Update Pasar Kripto $(date +%Y-%m-%d)",
-              "date":"$(date +%Y-%m-%d)",
-              "url":"articles/artikel-$(date +%Y-%m-%d).html",
-              "summary":"Ringkasan pasar kripto terbaru."
-            }
-          ]
-          EOF
+        run: node scripts/generateArticle.js
 
       - name: Commit
         run: |
