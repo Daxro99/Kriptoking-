@@ -86,6 +86,23 @@ fetch('data/market.json')
       Update: ${data.bitcoin.updated}`;
   });
 </script>
+    <h2>🔥 Trending Coin</h2>
+
+<ul id="trending-list"></ul>
+
+<script>
+fetch('data/trending.json')
+.then(r => r.json())
+.then(data => {
+
+  const list = document.getElementById('trending-list');
+
+  data.coins.forEach(coin => {
+    list.innerHTML += `<li>${coin}</li>`;
+  });
+
+});
+</script>
     
 <div id="news-container"></div>
 
