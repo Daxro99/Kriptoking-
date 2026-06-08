@@ -1,4 +1,10 @@
 {
-  "updated": "",
-  "coins": []
+  "updated":"2026-06-08",
+  "coins":[
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "XRP",
+    "BNB"
+  ]
 }
