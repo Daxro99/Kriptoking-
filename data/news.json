@@ -1,9 +1,16 @@
 [
   {
-    "id":"2026-06-08-bitcoin",
-    "title":"Bitcoin Menjadi Sorotan Investor",
-    "date":"2026-06-08",
-    "url":"articles/2026-06-08-bitcoin.html",
-    "summary":"Bitcoin kembali menjadi perhatian pasar."
+    "id": "2026-06-08-market-update",
+    "title": "Update Pasar Kripto 2026-06-08",
+    "date": "2026-06-08",
+    "url": "articles/artikel-2026-06-08.html",
+    "summary": "Ringkasan pasar kripto terbaru."
+  },
+  {
+    "id": "2026-06-08-bitcoin",
+    "title": "Bitcoin Menjadi Sorotan Investor",
+    "date": "2026-06-08",
+    "url": "articles/2026-06-08-bitcoin.html",
+    "summary": "Bitcoin kembali menjadi perhatian pasar."
   }
 ]
