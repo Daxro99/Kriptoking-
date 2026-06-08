@@ -33,7 +33,6 @@ header{
 }
 </style>
 </head>
-
 <body>
 
 <header>
@@ -41,27 +40,34 @@ header{
     <p>Berita Kripto Terbaru dan Analisis Pasar</p>
 </header>
 
-<div class="news-card">
-    <h2>Selamat Datang di KriptoKing</h2>
-    <p class="date">8 Juni 2026</p>
-    <p>
-        Portal berita kripto yang akan diperbarui secara otomatis
-        dengan berita terbaru seputar Bitcoin, Ethereum,
-        Altcoin, Blockchain, dan Web3.
-    </p>
-</div>
-<div class="news-card">
-    <h2>
-        <a href="articles/bitcoin-naik.html">
-            Bitcoin Menguat Hari Ini
-        </a>
-    </h2>
+<div id="news-container"></div>
 
-    <p class="date">8 Juni 2026</p>
+<script>
+fetch('data/news.json')
+  .then(response => response.json())
+  .then(news => {
 
-    <p>
-        Bitcoin mengalami kenaikan setelah sentimen pasar menunjukkan perbaikan.
-    </p>
-</div>
+    const container = document.getElementById('news-container');
+
+    news.forEach(article => {
+
+      container.innerHTML += `
+        <div class="news-card">
+          <h2>
+            <a href="${article.url}">
+              ${article.title}
+            </a>
+          </h2>
+
+          <p class="date">${article.date}</p>
+
+          <p>${article.summary}</p>
+        </div>
+      `;
+    });
+  });
+</script>
+
 </body>
+
 </html>
