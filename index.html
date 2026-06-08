@@ -39,6 +39,39 @@ header{
     <h1>🚀 KriptoKing</h1>
     <p>Berita Kripto Terbaru dan Analisis Pasar</p>
 </header>
+<h2>📈 Harga Kripto</h2>
+
+<table border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Koin</th>
+      <th>Harga USD</th>
+    </tr>
+  </thead>
+
+  <tbody id="market-table">
+  </tbody>
+</table>
+    <script>
+fetch('data/market.json')
+.then(r => r.json())
+.then(data => {
+
+  const table = document.getElementById('market-table');
+
+  data.coins.forEach(coin => {
+
+    table.innerHTML += `
+      <tr>
+        <td>${coin.name}</td>
+        <td>$${coin.price}</td>
+      </tr>
+    `;
+  });
+
+});
+</script>
+    
 <div class="news-card">
   <h2>Harga Bitcoin</h2>
   <p id="btc-price">Memuat data...</p>
