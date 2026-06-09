@@ -5,9 +5,6 @@ const market = JSON.parse(
   fs.readFileSync("data/market.json", "utf8")
 );
 
-const trending = JSON.parse(
-  fs.readFileSync("data/trending.json", "utf8")
-);
 const market = JSON.parse(
   fs.readFileSync("data/market.json", "utf8")
 );
@@ -42,6 +39,7 @@ if (!exists) {
   );
 
   const html = `
+<const html = `
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -52,11 +50,26 @@ if (!exists) {
 
 <h1>${article.title}</h1>
 
+<h2>📈 Kondisi Pasar</h2>
+
 <p>
-Artikel pasar kripto otomatis untuk tanggal ${today}.
+Data pasar kripto terbaru menunjukkan aktivitas yang terus
+berlangsung pada aset digital utama.
 </p>
 
-<a href="../index.html">Kembali ke Beranda</a>
+<h2>🔥 Coin Trending</h2>
+
+<ul>
+${trending.coins.map(c => `<li>${c}</li>`).join("")}
+</ul>
+
+<p>
+Artikel ini dibuat otomatis berdasarkan data pasar terbaru.
+</p>
+
+<a href="../index.html">
+Kembali ke Beranda
+</a>
 
 </body>
 </html>
