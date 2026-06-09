@@ -4,11 +4,6 @@ const today = new Date().toISOString().split("T")[0];
 const market = JSON.parse(
   fs.readFileSync("data/market.json", "utf8")
 );
-
-const market = JSON.parse(
-  fs.readFileSync("data/market.json", "utf8")
-);
-
 const trending = JSON.parse(
   fs.readFileSync("data/trending.json", "utf8")
 );
@@ -39,7 +34,6 @@ if (!exists) {
   );
 
   const html = `
-<const html = `
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -74,7 +68,6 @@ Kembali ke Beranda
 </body>
 </html>
 `;
-
   fs.writeFileSync(
     article.url,
     html
