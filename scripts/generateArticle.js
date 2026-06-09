@@ -8,6 +8,13 @@ const market = JSON.parse(
 const trending = JSON.parse(
   fs.readFileSync("data/trending.json", "utf8")
 );
+const market = JSON.parse(
+  fs.readFileSync("data/market.json", "utf8")
+);
+
+const trending = JSON.parse(
+  fs.readFileSync("data/trending.json", "utf8")
+);
 const article = {
   id: `${today}-market-update`,
   title: `Update Pasar Kripto ${today}`,
