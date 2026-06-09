@@ -1,3 +1,4 @@
+console.log("GENERATE ARTICLE V2");
 const fs = require("fs");
 
 const today = new Date().toISOString().split("T")[0];
