@@ -2,7 +2,6 @@ name: Generate Article
 
 on:
 workflow_dispatch:
-
 schedule:
 - cron: "15 */6 * * *"
 
