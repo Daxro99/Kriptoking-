@@ -17,6 +17,11 @@ try {
   process.exit(1);
 }
 
+console.log("GENERATE ARTICLE V2");
+const fs = require("fs");
+
+const today = new Date().toISOString().split("T")[0];
+
 const article = {
   id: `${today}-market-update`,
   title: `Update Pasar Kripto ${today}`,
@@ -24,6 +29,14 @@ const article = {
   url: `articles/artikel-${today}.html`,
   summary: "Ringkasan pasar kripto terbaru."
 };
+
+const newsPath = "data/news.json";
+
+let news = [];
+
+if (fs.existsSync(newsPath)) {
+  news = JSON.parse(fs.readFileSync(newsPath, "utf8"));
+}
 
 const exists = news.find(item => item.id === article.id);
 
@@ -35,7 +48,8 @@ if (!exists) {
     JSON.stringify(news, null, 2)
   );
 
-  const html = `<!DOCTYPE html>
+  const html = `
+<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -45,26 +59,22 @@ if (!exists) {
 
 <h1>${article.title}</h1>
 
-<p>Artikel pasar kripto otomatis untuk tanggal ${today}.</p>
+<p>
+Artikel pasar kripto otomatis untuk tanggal ${today}.
+</p>
 
 <a href="../index.html">Kembali ke Beranda</a>
 
 </body>
-</html>`;
+</html>
+`;
 
-  fs.writeFileSync(article.url, html);
+  fs.writeFileSync(
+    article.url,
+    html
+  );
 
   console.log("Artikel berhasil dibuat.");
 } else {
   console.log("Artikel hari ini sudah ada.");
 }
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-${news.map(article => `
-<url>
-<loc>https://kriptoking.kriptoking.workers.dev/${article.url}</loc>
-</url>
-`).join("")}
-
-</urlset>`;
