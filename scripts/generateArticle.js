@@ -58,3 +58,13 @@ if (!exists) {
 } else {
   console.log("Artikel hari ini sudah ada.");
 }
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+${news.map(article => `
+<url>
+<loc>https://kriptoking.kriptoking.workers.dev/${article.url}</loc>
+</url>
+`).join("")}
+
+</urlset>`;
