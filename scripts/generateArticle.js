@@ -73,7 +73,30 @@ Artikel pasar kripto otomatis untuk tanggal ${today}.
     article.url,
     html
   );
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+<url>
+<loc>https://kriptoking.kriptoking.workers.dev/</loc>
+</url>
+
+<url>
+<loc>https://kriptoking.kriptoking.workers.dev/archive.html</loc>
+</url>
+
+${news.map(article => `
+<url>
+<loc>https://kriptoking.kriptoking.workers.dev/${article.url}</loc>
+</url>
+`).join("")}
+
+</urlset>`;
+  fs.writeFileSync(
+  "sitemap.xml",
+  sitemap
+);
+
+console.log("Sitemap diperbarui.");
   console.log("Artikel berhasil dibuat.");
 } else {
   console.log("Artikel hari ini sudah ada.");
