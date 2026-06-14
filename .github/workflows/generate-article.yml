@@ -4,6 +4,7 @@ on:
 workflow_dispatch:
 schedule:
 
+-cron: "15 */6 * * *"
 
 permissions:
 contents: write
@@ -13,29 +14,30 @@ generate:
 runs-on: ubuntu-latest
 
 steps:
-  - uses: actions/checkout@v4
-    with:
-      fetch-depth: 0
 
-  - uses: actions/setup-node@v4
-    with:
-      node-version: 20
+uses: actions/checkout@v4
+with:
+fetch-depth: 0
 
-  - name: Install Dependencies
-    run: npm install
+uses: actions/setup-node@v4
+with:
+node-version: 20
 
-  - name: Generate Article
-    run: node scripts/generateArticle.js
+name: Install Dependencies
+run: npm install
 
-  - name: Commit
-    run: |
-      git config --global user.name "github-actions[bot]"
-      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+name: Generate Article
+run: node scripts/generateArticle.js
 
-      git add .
+name: Commit
+run: |
+git config --global user.name "github-actions[bot]"
+git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      git diff --staged --quiet || git commit -m "Generate article"
+git add .
 
-      git pull --rebase origin Develop
+git diff --staged --quiet || git commit -m "Generate article"
 
-      git push origin Develop
+git pull --rebase origin Develop
+
+git push origin Develop
