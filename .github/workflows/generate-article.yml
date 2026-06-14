@@ -2,7 +2,8 @@ name: Generate Article
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: "15 */6 * * *"
 permissions:
   contents: write
 
@@ -16,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-
+run: npm install
       - name: Generate Article
         run: node scripts/generateArticle.js
 
