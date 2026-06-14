@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta name="description" content="Berita kripto terbaru, harga Bitcoin, Ethereum, dan coin trending setiap hari.">
-<meta name="robots" content="index,follow">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KriptoKing - Berita Kripto Terbaru</title>
+<!DOCTYPE html><html lang="id">
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>KriptoKing - Berita Kripto Terbaru</title><meta name="description" content="Berita kripto terbaru, harga Bitcoin, Ethereum, dan coin trending setiap hari.">
+<meta name="robots" content="index,follow"><style>
 
-<style>
 body{
     font-family:Arial,sans-serif;
     max-width:1000px;
@@ -33,77 +28,121 @@ header{
     color:gray;
     font-size:14px;
 }
-</style>
-</head>
-<body>
 
-<header>
+a{
+    text-decoration:none;
+}
+
+footer{
+    text-align:center;
+    margin-top:30px;
+    color:#666;
+}
+
+</style></head><body><header>
     <h1>🚀 KriptoKing</h1>
     <p>Berita Kripto Terbaru dan Analisis Pasar</p>
-</header>
-    <h2>🔥 Trending Coin</h2>
-
-<ul id="trending-list"></ul>
-
-<script>
-fetch('data/trending.json')
-.then(r => r.json())
+</header><div class="news-card">
+    <h2>₿ Harga Bitcoin</h2>
+    <p id="btc-price">Memuat data...</p>
+</div><script>
+fetch('./data/market.json')
+.then(response => response.json())
 .then(data => {
 
-  const list = document.getElementById('trending-list');
+    if(data.bitcoin){
 
-  data.coins.forEach(coin => {
-    list.innerHTML += `<li>${coin}</li>`;
-  });
+        document.getElementById('btc-price').innerHTML =
+        `US$ ${data.bitcoin.price}<br>
+        Update: ${data.bitcoin.updated}`;
+
+    } else {
+
+        document.getElementById('btc-price').innerHTML =
+        'Data Bitcoin tidak tersedia';
+
+    }
+
+})
+.catch(error => {
+
+    document.getElementById('btc-price').innerHTML =
+    'Gagal memuat harga Bitcoin';
+
+    console.error(error);
 
 });
-</script>
-    
-    <h2>📰 Berita Terbaru</h2>
-<div id="news-container"></div>
+</script><div class="news-card">
+    <h2>🔥 Trending Coin</h2>
+    <ul id="trending-list"></ul>
+</div><script>
+fetch('./data/trending.json')
+.then(response => response.json())
+.then(data => {
 
-<script>
-fetch('data/news.json')
-  .then(response => response.json())
-  .then(news => {
+    const list = document.getElementById('trending-list');
 
-    const container = document.getElementById('news-container');
+    data.coins.forEach(coin => {
 
-  news.slice(0,10).forEach(article => {
+        list.innerHTML += `<li>${coin}</li>`;
 
-      container.innerHTML += `
-        <div class="news-card">
-          <h2>
-            <a href="${article.url}">
-              ${article.title}
-            </a>
-          </h2>
-
-          <p class="date">${article.date}</p>
-
-          <p>${article.summary}</p>
-        </div>
-      `;
     });
-  });
-</script>
-<div class="news-card">
-  <a href="archive.html">
-    📚 Lihat Semua Artikel
-  </a>
-</div>
-    <a href="about.html">Tentang Kami</a>
-    <hr>
 
-<footer>
-  <p>
-    © 2026 KriptoKing
-  </p>
+})
+.catch(error => console.error(error));
+</script><h2>📰 Berita Terbaru</h2><div id="news-container"></div><script>
+fetch('./data/news.json')
+.then(response => response.json())
+.then(news => {
 
-  <p>
-    Berita kripto otomatis, harga Bitcoin dan coin trending.
-  </p>
-</footer>
-</body>
+    const container =
+    document.getElementById('news-container');
 
+    news
+    .sort((a,b)=>
+      new Date(b.date)-new Date(a.date)
+    )
+    .slice(0,10)
+    .forEach(article => {
+
+        container.innerHTML += `
+        <div class="news-card">
+
+            <h2>
+                <a href="${article.url}">
+                    ${article.title}
+                </a>
+            </h2>
+
+            <p class="date">
+                ${article.date}
+            </p>
+
+            <p>
+                ${article.summary}
+            </p>
+
+        </div>
+        `;
+
+    });
+
+})
+.catch(error => console.error(error));
+</script><div class="news-card">
+    <a href="archive.html">
+        📚 Lihat Semua Artikel
+    </a>
+</div><div class="news-card">
+    <a href="about.html">
+        ℹ️ Tentang Kami
+    </a>
+</div><footer>
+    <hr><p>© 2026 KriptoKing</p>
+
+<p>
+Berita kripto otomatis, harga Bitcoin dan coin trending.
+</p>
+
+</footer></body>
 </html>
