@@ -3,8 +3,8 @@ name: Generate Article
 on:
 workflow_dispatch:
 schedule:
-  - cron: "015*/6 * * *"
 
+-cron: "15 */6 * * *"
 
 permissions:
 contents: write
