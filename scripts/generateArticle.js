@@ -91,6 +91,12 @@ ${news.map(article => `
 `).join("")}
 
 </urlset>`;
+  fs.writeFileSync(
+  "sitemap.xml",
+  sitemap
+);
+
+console.log("Sitemap diperbarui.");
   console.log("Artikel berhasil dibuat.");
 } else {
   console.log("Artikel hari ini sudah ada.");
