@@ -1,3 +1,22 @@
+const fs = require("fs");
+
+console.log("Generate article started");
+
+const today = new Date().toISOString().split("T")[0];
+
+const newsPath = "data/news.json";
+
+let news = [];
+
+try {
+  if (fs.existsSync(newsPath)) {
+    news = JSON.parse(fs.readFileSync(newsPath, "utf8"));
+  }
+} catch (err) {
+  console.error("Error membaca news.json:", err);
+  process.exit(1);
+}
+
 console.log("GENERATE ARTICLE V2");
 const fs = require("fs");
 

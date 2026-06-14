@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kriptoking.kriptoking.workers.dev/sitemap.xml
