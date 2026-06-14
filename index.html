@@ -42,37 +42,6 @@ header{
     <p>Berita Kripto Terbaru dan Analisis Pasar</p>
 </header>
 <h2>📈 Harga Kripto</h2>
-
-<table border="1" cellpadding="10">
-  <thead>
-    <tr>
-      <th>Koin</th>
-      <th>Harga USD</th>
-    </tr>
-  </thead>
-
-  <tbody id="market-table">
-  </tbody>
-</table>
-    <script>
-fetch('data/market.json')
-.then(r => r.json())
-.then(data => {
-
-  const table = document.getElementById('market-table');
-
-  data.coins.forEach(coin => {
-
-    table.innerHTML += `
-      <tr>
-        <td>${coin.name}</td>
-        <td>$${coin.price}</td>
-      </tr>
-    `;
-  });
-
-});
-</script>
     
 <div class="news-card">
   <h2>Harga Bitcoin</h2>
@@ -106,6 +75,7 @@ fetch('data/trending.json')
 });
 </script>
     
+    <h2>📰 Berita Terbaru</h2>
 <div id="news-container"></div>
 
 <script>
@@ -115,7 +85,7 @@ fetch('data/news.json')
 
     const container = document.getElementById('news-container');
 
-    news.forEach(article => {
+  news.slice(0,10).forEach(article => {
 
       container.innerHTML += `
         <div class="news-card">
@@ -133,12 +103,11 @@ fetch('data/news.json')
     });
   });
 </script>
-    <p>
+<div class="news-card">
   <a href="archive.html">
     📚 Lihat Semua Artikel
   </a>
-</p>
-
+</div>
 </body>
 
 </html>
