@@ -1,5 +1,11 @@
 [
   {
+    "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+    "date": "Fri, 19 Jun 2026 17:51:12 +0000",
+    "summary": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
+    "source": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj"
+  },
+  {
     "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
     "date": "Fri, 19 Jun 2026 12:30:00 +0000",
     "summary": "GoMining unveiled a software development kit and programmable access for its bitcoin payment protocol GoBTC Pay, allowing merchants to accept BTC for everyday purchases.",
@@ -22,11 +28,5 @@
     "date": "Fri, 19 Jun 2026 09:19:28 +0000",
     "summary": "Matt Cole says forced selling from leveraged investors pushed STRC and SATA sharply lower before both rebounded.",
     "source": "https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations"
-  },
-  {
-    "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
-    "date": "Fri, 19 Jun 2026 08:48:14 +0000",
-    "summary": "The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.",
-    "source": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks"
   }
 ]
