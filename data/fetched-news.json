@@ -1,5 +1,11 @@
 [
   {
+    "title": "Are perps swaps? A quick look at that CME suit: State of Crypto ",
+    "date": "Sun, 21 Jun 2026 18:30:00 +0000",
+    "summary": "CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product.",
+    "source": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto"
+  },
+  {
     "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
     "date": "Sun, 21 Jun 2026 07:12:35 +0000",
     "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
@@ -22,11 +28,5 @@
     "date": "Sat, 20 Jun 2026 13:00:00 +0000",
     "summary": "From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.",
     "source": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown"
-  },
-  {
-    "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
-    "date": "Fri, 19 Jun 2026 17:51:12 +0000",
-    "summary": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
-    "source": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj"
   }
 ]
