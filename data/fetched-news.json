@@ -1,5 +1,23 @@
 [
   {
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "date": "Sat, 11 Jul 2026 18:06:58 +0000",
+    "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+    "source": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
+  },
+  {
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "date": "Sat, 11 Jul 2026 17:07:24 +0000",
+    "summary": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
+    "source": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs"
+  },
+  {
+    "title": "The UK has finally shown it’s serious about crypto ",
+    "date": "Sat, 11 Jul 2026 15:00:00 +0000",
+    "summary": "Several recent regulatory steps indicate the UK might finally stop dragging its feet when it comes to crypto, argues Wirex CEO Chet Shah.",
+    "source": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto"
+  },
+  {
     "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
     "date": "Sat, 11 Jul 2026 12:25:05 +0000",
     "summary": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
@@ -10,23 +28,5 @@
     "date": "Sat, 11 Jul 2026 12:00:00 +0000",
     "summary": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
     "source": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it"
-  },
-  {
-    "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-    "date": "Sat, 11 Jul 2026 02:30:00 +0000",
-    "summary": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
-    "source": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no"
-  },
-  {
-    "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-    "date": "Fri, 10 Jul 2026 21:26:55 +0000",
-    "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
-    "source": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
-  },
-  {
-    "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-    "date": "Fri, 10 Jul 2026 16:02:21 +0000",
-    "summary": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
-    "source": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit"
   }
 ]
