@@ -1,5 +1,17 @@
 [
   {
+    "title": "Signs of life?: State of Crypto ",
+    "date": "Sun, 12 Jul 2026 18:30:00 +0000",
+    "summary": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+    "source": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto"
+  },
+  {
+    "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+    "date": "Sun, 12 Jul 2026 13:00:00 +0000",
+    "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
+    "source": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
+  },
+  {
     "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
     "date": "Sun, 12 Jul 2026 11:30:00 +0000",
     "summary": "The group's Dir. of Global Macro Jurien Timmer calls it an accumulation zone but notes the lack of a catalyst to bounce yet.",
@@ -16,17 +28,5 @@
     "date": "Sun, 12 Jul 2026 06:09:49 +0000",
     "summary": "Ripple's Brad Garlinghouse says he and co-founder Chris Larsen considered winding the company down and handing its XRP to shareholders before deciding to fight the 2020 lawsuit.",
     "source": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says"
-  },
-  {
-    "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-    "date": "Sun, 12 Jul 2026 05:49:52 +0000",
-    "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
-    "source": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero"
-  },
-  {
-    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-    "date": "Sat, 11 Jul 2026 18:06:58 +0000",
-    "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
-    "source": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera"
   }
 ]
