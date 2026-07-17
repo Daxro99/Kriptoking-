@@ -1,5 +1,23 @@
 [
   {
+    "title": "This $28 million ether market bet aims to profit from pure market chaos",
+    "date": "Fri, 17 Jul 2026 07:28:52 +0000",
+    "summary": "The mega trade aims to profit from a potential surge in ether price turbulence.",
+    "source": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos"
+  },
+  {
+    "title": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
+    "date": "Fri, 17 Jul 2026 05:32:00 +0000",
+    "summary": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+    "source": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply"
+  },
+  {
+    "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+    "date": "Fri, 17 Jul 2026 04:10:09 +0000",
+    "summary": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
+    "source": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty"
+  },
+  {
     "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
     "date": "Thu, 16 Jul 2026 18:38:13 +0000",
     "summary": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
@@ -10,23 +28,5 @@
     "date": "Thu, 16 Jul 2026 18:00:00 +0000",
     "summary": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.",
     "source": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion"
-  },
-  {
-    "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-    "date": "Thu, 16 Jul 2026 16:37:16 +0000",
-    "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.",
-    "source": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments"
-  },
-  {
-    "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-    "date": "Thu, 16 Jul 2026 16:14:30 +0000",
-    "summary": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
-    "source": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition"
-  },
-  {
-    "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-    "date": "Thu, 16 Jul 2026 15:26:15 +0000",
-    "summary": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
-    "source": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business"
   }
 ]
