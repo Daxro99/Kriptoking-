@@ -1,32 +1,32 @@
 [
   {
-    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-    "date": "Sun, 19 Jul 2026 10:00:00 +0000",
-    "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
-    "source": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"
+    "title": "The GENIUS Act turns 1: State of Crypto ",
+    "date": "Sun, 19 Jul 2026 18:30:00 +0000",
+    "summary": "The stablecoin-focused GENIUS Act became a law a year ago.",
+    "source": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto"
   },
   {
-    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-    "date": "Sun, 19 Jul 2026 05:37:34 +0000",
-    "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
-    "source": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second"
+    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "date": "Sun, 19 Jul 2026 15:19:21 +0000",
+    "summary": "Michael Saylor argues that a new proposal, BIP-110, to temporarily block \"spam\" data from the Bitcoin blockchain would undermine the network's neutrality and create a dangerous precedent for censorship.",
+    "source": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea"
   },
   {
-    "title": "France orders country's internet service providers to block Polymarket",
-    "date": "Sat, 18 Jul 2026 21:52:18 +0000",
-    "summary": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
-    "source": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket"
+    "title": "AI is destroying the internet. Math is our only hope.",
+    "date": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "summary": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
+    "source": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope"
   },
   {
-    "title": "Crypto executives say digital native generations may never need a bank account",
-    "date": "Sat, 18 Jul 2026 18:30:00 +0000",
-    "summary": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
-    "source": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account"
+    "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+    "date": "Sun, 19 Jul 2026 13:00:00 +0000",
+    "summary": "The GENIUS Act has hit its first anniversary without U.S. regulators yet meeting deadlines to write regulations, though rules will be in full effect by July 2028.",
+    "source": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms"
   },
   {
-    "title": "DOG Mode explains Bitcoin's next governance fight",
-    "date": "Sat, 18 Jul 2026 17:00:00 +0000",
-    "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
-    "source": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight"
+    "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+    "date": "Sun, 19 Jul 2026 13:00:00 +0000",
+    "summary": "The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption.",
+    "source": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"
   }
 ]
