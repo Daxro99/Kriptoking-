@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+    "date": "Sun, 19 Jul 2026 10:00:00 +0000",
+    "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
+    "source": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"
+  },
+  {
     "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
     "date": "Sun, 19 Jul 2026 05:37:34 +0000",
     "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
@@ -22,11 +28,5 @@
     "date": "Sat, 18 Jul 2026 17:00:00 +0000",
     "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
     "source": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight"
-  },
-  {
-    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-    "date": "Sat, 18 Jul 2026 16:09:59 +0000",
-    "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
-    "source": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments"
   }
 ]
