@@ -1,5 +1,23 @@
 [
   {
+    "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+    "date": "Mon, 20 Jul 2026 14:31:23 +0000",
+    "summary": "The Van Rossem hard fork moved Cardano to version 11 on Saturday. And for the first time, Cardano's community voted in the upgrade, not the company that built it.",
+    "source": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users"
+  },
+  {
+    "title": "Exodus to cut 25% of global workforce in payments shift",
+    "date": "Mon, 20 Jul 2026 13:53:08 +0000",
+    "summary": "This restructuring is part of a strategy to build a full-stack payments platform following the company's acquisitions of Monavate and Baanx.",
+    "source": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift"
+  },
+  {
+    "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+    "date": "Mon, 20 Jul 2026 13:49:24 +0000",
+    "summary": "The deals sparked a rebound in AI compute stocks after investors questioned demand for new data center capacity.",
+    "source": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector"
+  },
+  {
     "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
     "date": "Mon, 20 Jul 2026 12:55:36 +0000",
     "summary": "The company added just 7,430 ETH, worth about $14 million, last week as it nears its goal to corner 5% of Ethereum's supply.",
@@ -10,23 +28,5 @@
     "date": "Mon, 20 Jul 2026 12:35:02 +0000",
     "summary": "For the second consecutive week, the firm kept bitcoin holdings steady, choosing to use the raised capital to boost cash for paying dividends on its preferred stock.",
     "source": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged"
-  },
-  {
-    "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-    "date": "Mon, 20 Jul 2026 12:02:28 +0000",
-    "summary": "The framework will address critical issues like official ownership records, private key custody, transaction reversibility and system liability.",
-    "source": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal"
-  },
-  {
-    "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-    "date": "Mon, 20 Jul 2026 11:15:57 +0000",
-    "summary": "Your day-ahead look for July 20, 2026",
-    "source": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests"
-  },
-  {
-    "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-    "date": "Mon, 20 Jul 2026 11:10:07 +0000",
-    "summary": "Major banking heavyweights join a massive blockchain network test that will allow retail consumers to trade tokenized won freely across commercial lines.",
-    "source": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september"
   }
 ]
