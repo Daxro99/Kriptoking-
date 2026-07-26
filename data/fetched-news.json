@@ -1,5 +1,23 @@
 [
   {
+    "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+    "date": "Sat, 25 Jul 2026 16:59:36 +0000",
+    "summary": "New regulations for crypto trading, custody, and settlement in Russia take effect Sept. 1, with requirements for licensed intermediaries applying from July 2027.",
+    "source": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december"
+  },
+  {
+    "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+    "date": "Sat, 25 Jul 2026 15:46:05 +0000",
+    "summary": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
+    "source": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto"
+  },
+  {
+    "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+    "date": "Sat, 25 Jul 2026 13:00:00 +0000",
+    "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+    "source": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case"
+  },
+  {
     "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
     "date": "Sat, 25 Jul 2026 10:00:00 +0000",
     "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
@@ -10,23 +28,5 @@
     "date": "Fri, 24 Jul 2026 15:01:46 +0000",
     "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
     "source": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house"
-  },
-  {
-    "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-    "date": "Fri, 24 Jul 2026 15:00:00 +0000",
-    "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.",
-    "source": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes"
-  },
-  {
-    "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-    "date": "Fri, 24 Jul 2026 14:36:16 +0000",
-    "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
-    "source": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo"
-  },
-  {
-    "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-    "date": "Fri, 24 Jul 2026 13:15:15 +0000",
-    "summary": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
-    "source": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists"
   }
 ]
