@@ -1,5 +1,17 @@
 [
   {
+    "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline ",
+    "date": "Thu, 30 Jul 2026 20:32:13 +0000",
+    "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
+    "source": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline"
+  },
+  {
+    "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+    "date": "Thu, 30 Jul 2026 20:18:33 +0000",
+    "summary": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
+    "source": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates"
+  },
+  {
     "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
     "date": "Thu, 30 Jul 2026 17:34:03 +0000",
     "summary": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
@@ -9,24 +21,12 @@
     "title": "Ondo Finance weighs acquisition worth up to $500 million",
     "date": "Thu, 30 Jul 2026 16:04:16 +0000",
     "summary": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
-    "source": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million"
+    "source": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million"
   },
   {
     "title": "Crypto for Advisors: Is the Clarity Act dead?",
     "date": "Thu, 30 Jul 2026 15:00:49 +0000",
     "summary": "",
     "source": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead"
-  },
-  {
-    "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
-    "date": "Thu, 30 Jul 2026 14:33:02 +0000",
-    "summary": "CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps or futures could eventually affect how the IRS taxes the contracts. Independent legal experts say the issue remains unresolved.",
-    "source": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures"
-  },
-  {
-    "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
-    "date": "Thu, 30 Jul 2026 14:25:41 +0000",
-    "summary": "A governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more than 90%.",
-    "source": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change"
   }
 ]
