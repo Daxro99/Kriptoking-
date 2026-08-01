@@ -1,5 +1,23 @@
 [
   {
+    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+    "date": "Sat, 01 Aug 2026 09:01:08 +0000",
+    "summary": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+    "source": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit"
+  },
+  {
+    "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+    "date": "Sat, 01 Aug 2026 06:09:51 +0000",
+    "summary": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
+    "source": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs"
+  },
+  {
+    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+    "date": "Sat, 01 Aug 2026 05:55:46 +0000",
+    "summary": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+    "source": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices"
+  },
+  {
     "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
     "date": "Fri, 31 Jul 2026 20:50:58 +0000",
     "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
@@ -10,23 +28,5 @@
     "date": "Fri, 31 Jul 2026 18:24:55 +0000",
     "summary": "The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves during the second quarter.",
     "source": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half"
-  },
-  {
-    "title": "The good and the bad of perps, according to crypto traders",
-    "date": "Fri, 31 Jul 2026 17:53:59 +0000",
-    "summary": "Both retail and institutional traders worry about the funding rate.",
-    "source": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders"
-  },
-  {
-    "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-    "date": "Fri, 31 Jul 2026 17:07:30 +0000",
-    "summary": "A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.",
-    "source": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs"
-  },
-  {
-    "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-    "date": "Fri, 31 Jul 2026 15:39:30 +0000",
-    "summary": "Arvind Krishna said quantum computing will begin generating meaningful revenue before the decade ends as investment in the sector accelerates, in an interview on CNBC.",
-    "source": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says"
   }
 ]
