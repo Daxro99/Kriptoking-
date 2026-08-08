@@ -1,5 +1,17 @@
 [
   {
+    "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+    "date": "Sat, 08 Aug 2026 09:07:24 +0000",
+    "summary": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+    "source": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month"
+  },
+  {
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "date": "Sat, 08 Aug 2026 07:46:04 +0000",
+    "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+    "source": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes"
+  },
+  {
     "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
     "date": "Sat, 08 Aug 2026 03:30:00 +0000",
     "summary": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
@@ -16,17 +28,5 @@
     "date": "Fri, 07 Aug 2026 21:13:21 +0000",
     "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
     "source": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal"
-  },
-  {
-    "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-    "date": "Fri, 07 Aug 2026 20:20:00 +0000",
-    "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
-    "source": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock"
-  },
-  {
-    "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-    "date": "Fri, 07 Aug 2026 18:42:44 +0000",
-    "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
-    "source": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
   }
 ]
