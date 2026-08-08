@@ -1,5 +1,17 @@
 [
   {
+    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+    "date": "Sat, 08 Aug 2026 03:30:00 +0000",
+    "summary": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
+    "source": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets"
+  },
+  {
+    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+    "date": "Sat, 08 Aug 2026 02:30:00 +0000",
+    "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
+    "source": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"
+  },
+  {
     "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
     "date": "Fri, 07 Aug 2026 21:13:21 +0000",
     "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
@@ -16,17 +28,5 @@
     "date": "Fri, 07 Aug 2026 18:42:44 +0000",
     "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
     "source": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
-  },
-  {
-    "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-    "date": "Fri, 07 Aug 2026 16:53:56 +0000",
-    "summary": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar.",
-    "source": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business"
-  },
-  {
-    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-    "date": "Fri, 07 Aug 2026 16:32:41 +0000",
-    "summary": "The exchange has secured a preliminary injunction freezing stolen assets.",
-    "source": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze"
   }
 ]
