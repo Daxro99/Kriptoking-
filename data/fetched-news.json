@@ -1,5 +1,23 @@
 [
   {
+    "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+    "date": "Mon, 10 Aug 2026 21:12:07 +0000",
+    "summary": "The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.",
+    "source": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million"
+  },
+  {
+    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+    "date": "Mon, 10 Aug 2026 20:20:06 +0000",
+    "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.",
+    "source": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions"
+  },
+  {
+    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+    "date": "Mon, 10 Aug 2026 20:03:24 +0000",
+    "summary": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
+    "source": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors"
+  },
+  {
     "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
     "date": "Mon, 10 Aug 2026 15:02:14 +0000",
     "summary": "The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.",
@@ -10,23 +28,5 @@
     "date": "Mon, 10 Aug 2026 14:30:00 +0000",
     "summary": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
     "source": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice"
-  },
-  {
-    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "date": "Mon, 10 Aug 2026 13:50:51 +0000",
-    "summary": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
-    "source": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks"
-  },
-  {
-    "title": "Solana gets its first Strategy STRC product through Solstice Finance ",
-    "date": "Mon, 10 Aug 2026 13:26:36 +0000",
-    "summary": "The Solana vault splits income from Strategy’s preferred stock into a lower-risk senior token and a higher-risk junior token.",
-    "source": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana"
-  },
-  {
-    "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-    "date": "Mon, 10 Aug 2026 12:09:26 +0000",
-    "summary": "The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC",
-    "source": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares"
   }
 ]
