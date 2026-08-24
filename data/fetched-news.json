@@ -1,5 +1,11 @@
 [
   {
+    "title": "Regulation Crypto is here: State of Crypto ",
+    "date": "Sun, 23 Aug 2026 18:30:00 +0000",
+    "summary": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+    "source": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto"
+  },
+  {
     "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "date": "Sun, 23 Aug 2026 15:52:21 +0000",
     "summary": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
@@ -22,11 +28,5 @@
     "date": "Sat, 22 Aug 2026 15:16:41 +0000",
     "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
     "source": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
-  },
-  {
-    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-    "date": "Sat, 22 Aug 2026 14:10:17 +0000",
-    "summary": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
-    "source": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit"
   }
 ]
