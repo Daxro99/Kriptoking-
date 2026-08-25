@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+    "date": "Tue, 25 Aug 2026 05:51:52 +0000",
+    "summary": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
+    "source": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000"
+  },
+  {
+    "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+    "date": "Tue, 25 Aug 2026 05:25:11 +0000",
+    "summary": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.",
+    "source": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning"
+  },
+  {
+    "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+    "date": "Tue, 25 Aug 2026 00:55:32 +0000",
+    "summary": "BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand.",
+    "source": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates"
+  },
+  {
     "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
     "date": "Mon, 24 Aug 2026 19:36:36 +0000",
     "summary": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
@@ -10,23 +28,5 @@
     "date": "Mon, 24 Aug 2026 17:30:10 +0000",
     "summary": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
     "source": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year"
-  },
-  {
-    "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-    "date": "Mon, 24 Aug 2026 17:12:35 +0000",
-    "summary": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
-    "source": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain"
-  },
-  {
-    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-    "date": "Mon, 24 Aug 2026 12:59:55 +0000",
-    "summary": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
-    "source": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july"
-  },
-  {
-    "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-    "date": "Mon, 24 Aug 2026 12:52:30 +0000",
-    "summary": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
-    "source": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
   }
 ]
