@@ -1,32 +1,32 @@
 [
   {
+    "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+    "date": "Wed, 26 Aug 2026 05:52:53 +0000",
+    "summary": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares.",
+    "source": "https://www.coindesk.com/markets/2026/08/26/E"
+  },
+  {
+    "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+    "date": "Wed, 26 Aug 2026 05:16:32 +0000",
+    "summary": "CryptoQuant data show XRP’s estimated leverage ratio on Binance at its highest since January, with long accounts outnumbering shorts as futures volume runs more than five times spot trading.",
+    "source": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback"
+  },
+  {
+    "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+    "date": "Wed, 26 Aug 2026 04:51:49 +0000",
+    "summary": "The Fear & Greed Index reached 74 on Tuesday after sitting at 27 less than two weeks ago, showing how quickly traders have gone from caution to chasing risk.",
+    "source": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout"
+  },
+  {
+    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+    "date": "Wed, 26 Aug 2026 04:13:10 +0000",
+    "summary": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+    "source": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains"
+  },
+  {
     "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
     "date": "Tue, 25 Aug 2026 21:56:57 +0000",
     "summary": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere.",
     "source": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network"
-  },
-  {
-    "title": "Zerohash back for second effort at OCC trust bank charter",
-    "date": "Tue, 25 Aug 2026 21:38:28 +0000",
-    "summary": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
-    "source": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter"
-  },
-  {
-    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-    "date": "Tue, 25 Aug 2026 19:40:00 +0000",
-    "summary": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
-    "source": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move"
-  },
-  {
-    "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-    "date": "Tue, 25 Aug 2026 16:22:47 +0000",
-    "summary": "The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.",
-    "source": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges"
-  },
-  {
-    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-    "date": "Tue, 25 Aug 2026 14:50:22 +0000",
-    "summary": "The crypto ETF issuer is pushing deeper into onchain asset management as tokenization create new ways to build and manage investments.",
-    "source": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios"
   }
 ]
