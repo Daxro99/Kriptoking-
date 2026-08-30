@@ -1,5 +1,17 @@
 [
   {
+    "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+    "date": "Sun, 30 Aug 2026 15:00:00 +0000",
+    "summary": "Finance has spent centuries decoupling wealth from physical transport, but constantly erasing friction creates vectors for increasingly high-tech exploits.",
+    "source": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely"
+  },
+  {
+    "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+    "date": "Sun, 30 Aug 2026 12:00:00 +0000",
+    "summary": "As bitcoin surges back above $80,000, sophisticated trading firms are quietly collecting yield rather than making directional bet.",
+    "source": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction"
+  },
+  {
     "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
     "date": "Sat, 29 Aug 2026 23:49:17 +0000",
     "summary": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
@@ -16,17 +28,5 @@
     "date": "Sat, 29 Aug 2026 15:00:00 +0000",
     "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
     "source": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
-  },
-  {
-    "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-    "date": "Sat, 29 Aug 2026 15:00:00 +0000",
-    "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
-    "source": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet"
-  },
-  {
-    "title": "Tokenized assets are busier than the data shows",
-    "date": "Sat, 29 Aug 2026 13:00:00 +0000",
-    "summary": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.",
-    "source": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows"
   }
 ]
