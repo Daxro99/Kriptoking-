@@ -1,5 +1,11 @@
 [
   {
+    "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+    "date": "Mon, 07 Sep 2026 23:01:00 +0000",
+    "summary": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures’ trading decisions.",
+    "source": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered"
+  },
+  {
     "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
     "date": "Mon, 07 Sep 2026 15:44:30 +0000",
     "summary": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
@@ -22,11 +28,5 @@
     "date": "Mon, 07 Sep 2026 13:54:07 +0000",
     "summary": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
     "source": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth"
-  },
-  {
-    "title": "Solana to triple transaction size as apps get room for more complex trades",
-    "date": "Mon, 07 Sep 2026 12:08:11 +0000",
-    "summary": "A Transaction v1 feature activates Wednesday, allowing complex proofs and large multisig operations to fit in one transaction while forcing services that read Solana to update.",
-    "source": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades"
   }
 ]
