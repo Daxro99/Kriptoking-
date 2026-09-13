@@ -1,5 +1,17 @@
 [
   {
+    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto ",
+    "date": "Sun, 13 Sep 2026 18:45:08 +0000",
+    "summary": "I dunno, flip a coin.",
+    "source": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto"
+  },
+  {
+    "title": "Quantum-proof blockchain: why math, not machines, holds the key ",
+    "date": "Sun, 13 Sep 2026 17:00:00 +0000",
+    "summary": "lockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
+    "source": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key"
+  },
+  {
     "title": "Fed rate hike is about Wall Street, not inflation, says economist",
     "date": "Sun, 13 Sep 2026 13:00:00 +0000",
     "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
@@ -16,17 +28,5 @@
     "date": "Sun, 13 Sep 2026 12:00:00 +0000",
     "summary": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
     "source": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns"
-  },
-  {
-    "title": "OpenAI IPO won't happen this year, says Sam Altman",
-    "date": "Sat, 12 Sep 2026 21:09:31 +0000",
-    "summary": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune.",
-    "source": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman"
-  },
-  {
-    "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-    "date": "Sat, 12 Sep 2026 21:09:06 +0000",
-    "summary": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
-    "source": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad"
   }
 ]
