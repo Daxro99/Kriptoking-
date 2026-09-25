@@ -1,5 +1,23 @@
 [
   {
+    "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+    "date": "Thu, 24 Sep 2026 22:41:44 +0000",
+    "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+    "source": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
+  },
+  {
+    "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+    "date": "Thu, 24 Sep 2026 22:28:49 +0000",
+    "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+    "source": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
+  },
+  {
+    "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+    "date": "Thu, 24 Sep 2026 21:59:32 +0000",
+    "summary": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
+    "source": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe"
+  },
+  {
     "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
     "date": "Thu, 24 Sep 2026 20:13:25 +0000",
     "summary": "The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.",
@@ -10,23 +28,5 @@
     "date": "Thu, 24 Sep 2026 20:05:00 +0000",
     "summary": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
     "source": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks"
-  },
-  {
-    "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-    "date": "Thu, 24 Sep 2026 20:04:46 +0000",
-    "summary": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
-    "source": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc"
-  },
-  {
-    "title": "The stock token debate, and the gap nobody can close alone",
-    "date": "Thu, 24 Sep 2026 20:03:21 +0000",
-    "summary": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
-    "source": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone"
-  },
-  {
-    "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-    "date": "Thu, 24 Sep 2026 18:46:58 +0000",
-    "summary": "Bitcoin’s return above its one-year average excited chart watchers. AltcoinPro Research says the more important signal is whether it can stay above its 200-day average.",
-    "source": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean"
   }
 ]
