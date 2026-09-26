@@ -1,5 +1,23 @@
 [
   {
+    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+    "date": "Sat, 26 Sep 2026 05:00:00 +0000",
+    "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+    "source": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
+  },
+  {
+    "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+    "date": "Sat, 26 Sep 2026 04:30:00 +0000",
+    "summary": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+    "source": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets"
+  },
+  {
+    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+    "date": "Sat, 26 Sep 2026 04:02:13 +0000",
+    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+    "source": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
+  },
+  {
     "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
     "date": "Fri, 25 Sep 2026 22:17:38 +0000",
     "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
@@ -10,23 +28,5 @@
     "date": "Fri, 25 Sep 2026 21:17:30 +0000",
     "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
     "source": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations"
-  },
-  {
-    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-    "date": "Fri, 25 Sep 2026 20:01:05 +0000",
-    "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
-    "source": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles"
-  },
-  {
-    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-    "date": "Fri, 25 Sep 2026 14:41:53 +0000",
-    "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-    "source": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist"
-  },
-  {
-    "title": "Tokenization is moving faster than Washington",
-    "date": "Fri, 25 Sep 2026 14:37:32 +0000",
-    "summary": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
-    "source": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington"
   }
 ]
