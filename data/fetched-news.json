@@ -1,5 +1,17 @@
 [
   {
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "date": "Sun, 27 Sep 2026 14:29:13 +0000",
+    "summary": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+    "source": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision"
+  },
+  {
+    "title": "How months of work on the Clarity Act all fell apart",
+    "date": "Sun, 27 Sep 2026 12:00:00 +0000",
+    "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
+    "source": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart"
+  },
+  {
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
     "date": "Sat, 26 Sep 2026 14:00:00 +0000",
     "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
@@ -16,17 +28,5 @@
     "date": "Sat, 26 Sep 2026 12:56:41 +0000",
     "summary": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
     "source": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze"
-  },
-  {
-    "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-    "date": "Sat, 26 Sep 2026 12:00:00 +0000",
-    "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-    "source": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules"
-  },
-  {
-    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-    "date": "Sat, 26 Sep 2026 05:00:00 +0000",
-    "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
-    "source": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
   }
 ]
