@@ -1,5 +1,11 @@
 [
   {
+    "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+    "date": "Tue, 29 Sep 2026 23:00:00 +0000",
+    "summary": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
+    "source": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
+  },
+  {
     "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
     "date": "Tue, 29 Sep 2026 18:21:07 +0000",
     "summary": "The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.",
@@ -22,11 +28,5 @@
     "date": "Tue, 29 Sep 2026 11:34:55 +0000",
     "summary": "Your day-ahead look for Sept. 29, 2026",
     "source": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play"
-  },
-  {
-    "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
-    "date": "Tue, 29 Sep 2026 11:15:30 +0000",
-    "summary": "Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.",
-    "source": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan"
   }
 ]
