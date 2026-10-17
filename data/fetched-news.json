@@ -1,5 +1,17 @@
 [
   {
+    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+    "date": "Sat, 17 Oct 2026 14:00:00 +0000",
+    "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
+    "source": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe"
+  },
+  {
+    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+    "date": "Sat, 17 Oct 2026 12:00:00 +0000",
+    "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+    "source": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
+  },
+  {
     "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
     "date": "Sat, 17 Oct 2026 06:39:48 +0000",
     "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
@@ -16,17 +28,5 @@
     "date": "Fri, 16 Oct 2026 14:58:22 +0000",
     "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
     "source": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
-  },
-  {
-    "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-    "date": "Fri, 16 Oct 2026 11:15:00 +0000",
-    "summary": "Your day-ahead look for Oct. 16, 2026",
-    "source": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets"
-  },
-  {
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "date": "Fri, 16 Oct 2026 10:54:35 +0000",
-    "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-    "source": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally"
   }
 ]
