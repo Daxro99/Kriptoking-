@@ -1,5 +1,23 @@
 [
   {
+    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+    "date": "Sun, 18 Oct 2026 01:06:35 +0000",
+    "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+    "source": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+  },
+  {
+    "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+    "date": "Sat, 17 Oct 2026 17:00:00 +0000",
+    "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
+    "source": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat"
+  },
+  {
+    "title": "Citrini sees a tokenization boom. The harder question is who profits",
+    "date": "Sat, 17 Oct 2026 15:00:00 +0000",
+    "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
+    "source": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits"
+  },
+  {
     "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
     "date": "Sat, 17 Oct 2026 14:00:00 +0000",
     "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
@@ -10,23 +28,5 @@
     "date": "Sat, 17 Oct 2026 12:00:00 +0000",
     "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
     "source": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
-  },
-  {
-    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-    "date": "Sat, 17 Oct 2026 06:39:48 +0000",
-    "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
-    "source": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
-  },
-  {
-    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-    "date": "Sat, 17 Oct 2026 02:30:00 +0000",
-    "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-    "source": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
-  },
-  {
-    "title": "Big Tech's AI auditors will only see what they're shown",
-    "date": "Fri, 16 Oct 2026 14:58:22 +0000",
-    "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-    "source": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
   }
 ]
