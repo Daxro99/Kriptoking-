@@ -1,5 +1,23 @@
 [
   {
+    "title": "The White House's crypto chief departs: State of Crypto ",
+    "date": "Sun, 18 Oct 2026 18:30:00 +0000",
+    "summary": "Patrick Witt announced his departure from the White House last week.",
+    "source": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
+  },
+  {
+    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "date": "Sun, 18 Oct 2026 16:33:00 +0000",
+    "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+    "source": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
+  },
+  {
+    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+    "date": "Sun, 18 Oct 2026 16:00:00 +0000",
+    "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+    "source": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation"
+  },
+  {
     "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
     "date": "Sun, 18 Oct 2026 14:00:00 +0000",
     "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
@@ -10,23 +28,5 @@
     "date": "Sun, 18 Oct 2026 13:00:00 +0000",
     "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
     "source": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
-  },
-  {
-    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-    "date": "Sun, 18 Oct 2026 13:00:00 +0000",
-    "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
-    "source": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says"
-  },
-  {
-    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-    "date": "Sun, 18 Oct 2026 12:00:00 +0000",
-    "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
-    "source": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million"
-  },
-  {
-    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-    "date": "Sun, 18 Oct 2026 07:13:32 +0000",
-    "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
-    "source": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
   }
 ]
