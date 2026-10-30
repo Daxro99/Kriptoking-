@@ -1,5 +1,11 @@
 [
   {
+    "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+    "date": "Fri, 30 Oct 2026 19:55:00 +0000",
+    "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+    "source": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+  },
+  {
     "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
     "date": "Fri, 30 Oct 2026 16:31:17 +0000",
     "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
@@ -22,11 +28,5 @@
     "date": "Fri, 30 Oct 2026 11:51:26 +0000",
     "summary": "Your day-ahead look for Oct. 30, 2026",
     "source": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
-  },
-  {
-    "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-    "date": "Fri, 30 Oct 2026 11:35:16 +0000",
-    "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
-    "source": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
   }
 ]
