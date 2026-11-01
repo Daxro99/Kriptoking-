@@ -1,5 +1,11 @@
 [
   {
+    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+    "date": "Sun, 01 Nov 2026 01:10:05 +0000",
+    "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+    "source": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+  },
+  {
     "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
     "date": "Sat, 31 Oct 2026 18:00:00 +0000",
     "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
@@ -22,11 +28,5 @@
     "date": "Sat, 31 Oct 2026 15:24:10 +0000",
     "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
     "source": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
-  },
-  {
-    "title": "Institutions embrace crypto staking despite shrinking yields",
-    "date": "Sat, 31 Oct 2026 15:00:00 +0000",
-    "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
-    "source": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields"
   }
 ]
