@@ -1,5 +1,23 @@
 [
   {
+    "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
+    "date": "Wed, 04 Nov 2026 00:00:00 +0000",
+    "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
+    "source": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog"
+  },
+  {
+    "title": "What voters said about their views on crypto",
+    "date": "Tue, 03 Nov 2026 23:19:44 +0000",
+    "summary": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
+    "source": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto"
+  },
+  {
+    "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+    "date": "Tue, 03 Nov 2026 23:00:07 +0000",
+    "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits.",
+    "source": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
+  },
+  {
     "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
     "date": "Tue, 03 Nov 2026 22:14:44 +0000",
     "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
@@ -10,23 +28,5 @@
     "date": "Tue, 03 Nov 2026 16:55:10 +0000",
     "summary": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
     "source": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties"
-  },
-  {
-    "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-    "date": "Tue, 03 Nov 2026 16:49:56 +0000",
-    "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
-    "source": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack"
-  },
-  {
-    "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
-    "date": "Tue, 03 Nov 2026 16:17:51 +0000",
-    "summary": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
-    "source": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
-  },
-  {
-    "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-    "date": "Tue, 03 Nov 2026 16:12:35 +0000",
-    "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment.",
-    "source": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool"
   }
 ]
