@@ -1,12 +1,24 @@
 [
   {
+    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+    "date": "Fri, 06 Nov 2026 02:24:23 +0000",
+    "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+    "source": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform"
+  },
+  {
+    "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+    "date": "Fri, 06 Nov 2026 01:30:00 +0000",
+    "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+    "source": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
+  },
+  {
     "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
     "date": "Thu, 05 Nov 2026 18:59:45 +0000",
     "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
     "source": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats"
   },
   {
-    "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+    "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
     "date": "Thu, 05 Nov 2026 18:48:40 +0000",
     "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
     "source": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
@@ -16,17 +28,5 @@
     "date": "Thu, 05 Nov 2026 16:58:21 +0000",
     "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
     "source": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist"
-  },
-  {
-    "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-    "date": "Thu, 05 Nov 2026 16:49:08 +0000",
-    "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
-    "source": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection"
-  },
-  {
-    "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-    "date": "Thu, 05 Nov 2026 16:13:32 +0000",
-    "summary": "",
-    "source": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep"
   }
 ]
