@@ -1,5 +1,23 @@
 [
   {
+    "title": "What the election results mean for crypto: State of Crypto ",
+    "date": "Sun, 08 Nov 2026 19:30:00 +0000",
+    "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+    "source": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
+  },
+  {
+    "title": "Stablecoin growth has stalled. The payments boom hasn't",
+    "date": "Sun, 08 Nov 2026 19:16:42 +0000",
+    "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+    "source": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
+  },
+  {
+    "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+    "date": "Sun, 08 Nov 2026 12:55:59 +0000",
+    "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
+    "source": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
+  },
+  {
     "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
     "date": "Sat, 07 Nov 2026 19:13:16 +0000",
     "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
@@ -10,23 +28,5 @@
     "date": "Sat, 07 Nov 2026 17:36:46 +0000",
     "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
     "source": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
-  },
-  {
-    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-    "date": "Sat, 07 Nov 2026 16:51:00 +0000",
-    "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-    "source": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
-  },
-  {
-    "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-    "date": "Fri, 06 Nov 2026 20:09:18 +0000",
-    "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
-    "source": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
-  },
-  {
-    "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-    "date": "Fri, 06 Nov 2026 17:42:28 +0000",
-    "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
-    "source": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
   }
 ]
