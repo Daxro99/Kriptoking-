@@ -1,5 +1,17 @@
 [
   {
+    "title": "More on the pending oversight hearings: State of Crypto ",
+    "date": "Sun, 22 Nov 2026 19:30:00 +0000",
+    "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+    "source": "https://www.coindesk.com/"
+  },
+  {
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "date": "Sun, 22 Nov 2026 14:00:00 +0000",
+    "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+    "source": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
+  },
+  {
     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
     "date": "Sat, 21 Nov 2026 17:50:00 +0000",
     "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
@@ -12,21 +24,9 @@
     "source": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
   },
   {
-    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-    "date": "Sat, 21 Nov 2026 12:30:00 +0000",
-    "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
-    "source": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
-  },
-  {
-    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-    "date": "Sat, 21 Nov 2026 06:16:42 +0000",
-    "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
-    "source": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
-  },
-  {
-    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-    "date": "Sat, 21 Nov 2026 05:59:19 +0000",
-    "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
-    "source": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
+    "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+    "date": "Sat, 21 Nov 2026 14:00:00 +0000",
+    "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+    "source": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos"
   }
 ]
