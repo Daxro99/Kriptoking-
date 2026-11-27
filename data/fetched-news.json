@@ -1,5 +1,23 @@
 [
   {
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "date": "Thu, 26 Nov 2026 17:30:00 +0000",
+    "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+    "source": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+  },
+  {
+    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "date": "Thu, 26 Nov 2026 16:50:23 +0000",
+    "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+    "source": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
+  },
+  {
+    "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+    "date": "Thu, 26 Nov 2026 15:42:43 +0000",
+    "summary": "",
+    "source": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange"
+  },
+  {
     "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
     "date": "Thu, 26 Nov 2026 14:05:58 +0000",
     "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
@@ -10,23 +28,5 @@
     "date": "Thu, 26 Nov 2026 12:38:51 +0000",
     "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place.",
     "source": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information"
-  },
-  {
-    "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-    "date": "Thu, 26 Nov 2026 12:14:46 +0000",
-    "summary": "Your day-ahead look for Nov. 26, 2026",
-    "source": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
-  },
-  {
-    "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-    "date": "Thu, 26 Nov 2026 11:27:50 +0000",
-    "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
-    "source": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources"
-  },
-  {
-    "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-    "date": "Thu, 26 Nov 2026 11:17:22 +0000",
-    "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
-    "source": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving"
   }
 ]
